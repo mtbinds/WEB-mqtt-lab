@@ -12,3 +12,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+#messages {
+  color: #2e2e2e;
+  list-style-type: none;
+  margin: 0 0 3em;
+  padding: 0;
+}
+#messages li {
+  padding: 5px 20px;
+}
+#messages li:nth-child(odd) {
+  background: #d4d4d4;
+}

@@ -1,8 +1,8 @@
 # WebSocket MQTT Lab
 
-- Année : M2 iWOCS
-- Matière: WEB-IHM
-- TP : n°3
+- Année : M1 IWOCS
+- Matière: WEB
+- TP : n°4
 
 ## Auteur(s)
 
@@ -12,7 +12,7 @@
 
 ## Travail à réaliser
 
-Détail du tp : <https://pigne.org/teaching/webdev2/lab/WebSocketMQTTLab>
+Détail du tp : <https://pigne.org/teaching/webdev1/lab/WebMQTTLab>
 
 
 

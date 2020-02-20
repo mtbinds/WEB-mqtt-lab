@@ -20,6 +20,6 @@
   ],
   "devDependencies": {
     "http-proxy-middleware": "^0.19.1",
-    "react-scripts": "^2.1.5"
+    "react-scripts": "^3.4.0"
   }
 }

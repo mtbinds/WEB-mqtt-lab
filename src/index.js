@@ -1,6 +1,6 @@
 import './index.css';
 
-const url  = "ws://" + window.location.host+ "/socket";
+const url  = "ws://random.pigne.org:9001";
 
 
 // On pourrait utiliser un WebSocket pour se connecter au serveur MQTT
